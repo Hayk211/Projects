@@ -6,3 +6,9 @@ This is my first project.This program is designed to allow people to communicate
 
 Now i warn about this porject that how can you use it.
 When you enter to website you can without login see what other people write but when you want write something you must be login.In letters page you can add letter or delete your last letter or you can see all your letters.
+
+
+How to use application
+
+1.set expect FLASK_RUN=app.py
+2.flask run 
