@@ -11,4 +11,6 @@ When you enter to website you can without login see what other people write but 
 How to use application
 
 1.set expect FLASK_RUN=app.py
+
+
 2.flask run 
